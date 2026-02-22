@@ -37,13 +37,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilmaurya2006&theme=github_dark" />
 </p>---
 
-📊 System Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilmaurya2006&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya2006&theme=highcontrast&hide_border=true&background=00000000" />
-</p>---
 
 🌐 Connect With Me..
 
