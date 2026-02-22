@@ -47,13 +47,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya2006&theme=highcontrast&hide_border=true&background=00000000" />
 </p>---
 
-🏆 Achievement Unlocked
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilmaurya2006&theme=matrix&no-frame=true&row=1&column=7" />
-</p>---
-
-🌐 Connect to the Underworld
+🌐 Connect With Me..
 
 <p align="center">
   <a href="https://github.com/sahilmaurya2006">
