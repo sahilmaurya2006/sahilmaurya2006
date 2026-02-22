@@ -1,7 +1,7 @@
 <!-- ================= ULTRA DARK MATRIX PROFILE ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2500&color=FF003C&center=true&vCenter=true&width=800&lines=ACCESSING+SECURE+NODE...;Hi+👋+I'm+Sahil+Maurya;Cybersecurity+Operative+🔐;Full+Stack+Engineer+⚡;Entering+Dark+Matrix+💀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2500&color=FF003C&center=true&vCenter=true&width=800&lines=Welcome...;Hi+👋+I'm+Sahil+Maurya;Cybersecurity+🔐;Full+Stack+Developer+⚡;Entering+profile+💀" />
 </p>
 
 <p align="center">
@@ -12,31 +12,42 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=INTRUDERS&color=ff003c&style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff003c,100:000000&height=2"/>
+</p>
+
 
 # 🧠 `sudo whoami`
 
-> identity: Sahil Maurya
+<p align="left">
+  <span style="font-size:28px;"><b>IDENTITY: Sahil Maurya</b></span><br>
+  <span style="font-size:22px;"><b>SPECIALIZATION: Cybersecurity 🔐</b></span>
+</p>
 
-> role: Full Stack Developer
-
-> specialization: Cybersecurity
-
----
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=FF003C&center=true&vCenter=true&lines=SYSTEM+LOGIN...;CONNECTION+SECURE+✔"/>
+</p>
 
 ⚙️ SKILLS 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,cpp,nodejs,express,mongodb,git,github,vscode,postman,docker&theme=dark" />
-  ---
+  <img src="https://skillicons.dev/icons?i=js,java,python,c,nodejs,express,mongodb,git,github,linux,postman,docker,react,tailwind,nextjs&theme=dark" />
+ 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-</p>---
+</p><p align="center">
+  <img src="https://img.shields.io/badge/MODE-DARK_MATRIX-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-ff003c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SECURITY-HIGH-ff003c?style=for-the-badge"/>
+</p>
 
-🧩 3D Contribution
+🧩 Contribution
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilmaurya2006&theme=github_dark" />
@@ -59,5 +70,11 @@
 </p>---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,100:000000&height=160&section=footer"/>
-</p><!-- ================= END OF MATRIX ================= -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="850"/>
+</p>
+
+<!-- ACCESS LOG: If you found this, you're inside the system 👁 -->
+
