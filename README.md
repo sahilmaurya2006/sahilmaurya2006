@@ -28,6 +28,12 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,python,cpp,nodejs,express,mongodb,git,github,vscode,postman,docker&theme=dark" />
+  ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 </p>---
 
 🧩 3D Contribution
