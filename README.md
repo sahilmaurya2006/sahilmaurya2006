@@ -16,13 +16,11 @@
 
 # 🧠 `sudo whoami`
 
-```bash
-> booting profile...
 > identity: Sahil Maurya
+
 > role: Full Stack Developer
+
 > specialization: Cybersecurity
-> threat_level: HIGH
-> system_status: ONLINE 🟢
 
 ---
 
@@ -35,36 +33,36 @@
 🧩 3D Contribution Matrix
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilmaurya2006&theme=github_dark" />
 </p><p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilmaurya2006&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilmaurya2006&theme=github_dark" />
 </p>---
 
 📊 System Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilmaurya2006&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" />
 </p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya2006&theme=highcontrast&hide_border=true&background=00000000" />
 </p>---
 
 🏆 Achievement Unlocked
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilmaurya2006&theme=matrix&no-frame=true&row=1&column=7" />
 </p>---
 
 🌐 Connect to the Underworld
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/sahilmaurya2006">
     <img src="https://img.shields.io/badge/GitHub-ff003c?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/sahil-maurya-686179373">
     <img src="https://img.shields.io/badge/LinkedIn-ff003c?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO">
+  <a href="https://www.sahilmaurya.in">
     <img src="https://img.shields.io/badge/Portfolio-ff003c?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>---
