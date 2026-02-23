@@ -72,6 +72,9 @@
   <a href="https://www.sahilmaurya.in">
     <img src="https://img.shields.io/badge/Portfolio-ff003c?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
+  <a href="https://instagram.com/sahilmaurya2006">
+    <img src="https://img.shields.io/badge/Instagram-ff003c?style=for-the-badge&logo=instagram&logoColor=black"/>
+  </a>
 </p>---
 
 <p align="center">
