@@ -31,7 +31,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=FF003C&center=true&vCenter=true&lines=SYSTEM+LOGIN...;CONNECTION+SECURE+✔"/>
 </p>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/cyberZero.png" alt="TryHackMe Badge" width="220"/>
+  <a href="https://tryhackme.com/p/cyberZero">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/cyberZero.png" alt="Your Image Badge" />
+  </a>
 </p>
 
 ⚙️ SKILLS 
