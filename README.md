@@ -57,7 +57,13 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahilmaurya2006&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahilmaurya2006&theme=github_dark" />
-</p>---
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya2006&theme=radical"/>
+</p>
+
+## 🔥 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmaurya2006&theme=react-dark"/>
+</p>
 
 
 🌐 Connect With Me..
@@ -76,6 +82,7 @@
     <img src="https://img.shields.io/badge/Instagram-ff003c?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
 </p>---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=3"/>
